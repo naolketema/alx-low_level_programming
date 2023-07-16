@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+#include <unistd.h>
 
 /**
  * main- posetive or negative nuber
@@ -23,3 +27,4 @@ else
 }
 return (0);
 }
+
